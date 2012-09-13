@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Prueba modificacion2
 hola mundo!
+=======
+Prueba modificacion1
+>>>>>>> remotes/origin/Develop
